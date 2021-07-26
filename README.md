@@ -1,4 +1,4 @@
-# NNDL_exercise
+# NNDL Exercise
 
 [Exercise](https://github.com/nndl/exercise) in [Neural Networks and Deep Learning](https://nndl.github.io/ 'Neural Networks and Deep Learning')
 
