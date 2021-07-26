@@ -5,5 +5,7 @@
 ## Finished Exercise
 
 1. Chapter 1 Warm-Up
+2. Chapter 2 Linear Regression
+
 
 
