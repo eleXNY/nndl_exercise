@@ -1,1 +1,9 @@
-# nndl_exercise
+# NNDL_exercise
+
+[Exercise](https://github.com/nndl/exercise) in [Neural Networks and Deep Learning](https://nndl.github.io/ 'Neural Networks and Deep Learning')
+
+## Finished Exercise
+
+1. Chapter 1 Warm-Up
+
+
