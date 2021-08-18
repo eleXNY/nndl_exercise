@@ -4,8 +4,7 @@
 
 ## Finished Exercise
 
-1. Chapter 1 Warm-Up
-2. Chapter 2 Linear Regression
-
-
-
+- [x] Chapter 1 Warm-Up
+- [x] Chapter 2 Linear Regression
+- [ ] Chapter 3 Softmax Regression
+- [ ] Chapter 3 SVM
